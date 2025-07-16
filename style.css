@@ -1,5 +1,5 @@
 body {
-  background-color: #f4f4f4; /* light grey background */
+  background-color: linear-gradient(to right, #a1c4fd, #c2e9fb); /* light grey background */
   font-family: 'Segoe UI', sans-serif; /* smooth font */
   margin: 0;
   padding: 0;
