@@ -1,0 +1,26 @@
+body {
+  background-color: #f4f4f4; /* light grey background */
+  font-family: 'Segoe UI', sans-serif; /* smooth font */
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #004aad; /* nice blue color */
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+section {
+  padding: 20px;
+  background-color: white;
+  margin: 20px auto;
+  max-width: 800px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+h2 {
+  color: #004aad;
+}
