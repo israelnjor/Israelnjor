@@ -1,60 +1,51 @@
-<!DOCTYPE html>
+# 👨🏾‍💻 Kiche Israel Njor
 
-<html lang = "en">
-    <head>
-        <meta charset="UTF-8">
-        <title>MY Website</title>
-    </head>
-    <body>
-     
-        <h1> Kiche Israel Njor</h1>
-        <p>📍Accra, Ghana|📞+233 597978228 | 📧 israelnjor@gmail.com</p>
-        <p>
-          💻  <a href = "https://github.com/israelnjor" target = "blank">Github</a> |
-            <a href = "https://linkedin.com/in/israelnjor" target ="blank">LinkedIn</a>
-        </p>
-        <h2>🎓My Education</h2>
-        <h3>Univerasity of Ghana, Legon</h3>
-        <p><strong>Bsc Computer Science-Level 100</strong><br>
-        Expected Graduation: May 2028</p>
-        <ul>
-            <li>Strong foundation in programming, algorithms, and mathematics</li>
-            <li>Relevant Courses: Introduction to Programming, Calculus, Algebra, Critical Thinking</li>
-        </ul>
-        
-        <h3>St. Mary’s Senior High, Volta Region</h3>
-        <p><strong>WASSCE Graduate (2022) — With Excellent Aggregate</strong></p>
-         <img src = "Pic2.jpg" alt = "My Profile Picture">
+📍 Accra, Ghana | 📞 +233 597978228 | 📧 israelnjor@gmail.com  
+💼 [GitHub](https://github.com/israelnjor) • [LinkedIn](https://linkedin.com/in/israelnjor) • [Portfolio](BusTicketDiscount.html)  
 
-        <h2>💻 Technical Skills</h2>
-        <p>
-            <ul>
-                <li>Programming: Python, HTML/CSS, JavaScript (basic), C (introductory)</li>
-                <li>Tools: VS Code, Git/GitHub, MS Word, Excel, PowerPoint</li>
-                <li>Others: Google Docs, Canva, Zoom, Basic Networking</li>
-                <li>Soft Skills: Teamwork, Time Management, Communication, Adaptability</li>
-            </ul>
-        </p>
-        <h2>🛠 Projects & Coursework</h2>
-        <p>
-            <ul>
-                <li><strong>Basic Calculator in Java script</strong>—CLI-based calculator for arithmetic operations</li>
-                
-                <li><strong>Excel Data Visualization</strong> — Built a chart on UG Colleges for PowerPoint presentation</li>
-                <li><strong>Website Portfolio (HTML/CSS)</strong> — Created a static personal website in class</li>
-            </ul>
-        </p>
-        <a href = "Njor.html" target = "blank">njor.com</a><br>
-        <a href = "BusTicketDiscount.html" target = "blank">Table</a>
-        <h2>🌟 Achievements & Activities<br>🏅🥈</h2>
-        <p>
-            <ul>
-                <li>UG Table Tennis Club🎾 — Active Member</li>
-                <li>Media Personnel in Church</li>
-                <li>Passionate about problem-solving and building digital solutions</li>
-        </p>
-        <h2>📨 References</h2>
-        <p>Available upon request</p>
-        🪀<a href = "https://wa.me/233539032948" target = "blank">Whatsapp</a>
-    </body>
-</html>
+---
+
+## 🎓 Education
+
+### University of Ghana, Legon  
+**BSc Computer Science – Level 100**  
+*Expected Graduation: May 2028*  
+- Strong foundation in programming, algorithms, and mathematics  
+- Relevant Courses: Introduction to Programming, Calculus, Algebra, Critical Thinking
+
+### St. Mary’s Senior High, Volta Region  
+**WASSCE Graduate (2022)** – With Excellent Aggregate  
+> Former Quiz Team Member  
+
+---
+
+## 💻 Technical Skills
+- **Languages:** Python, HTML/CSS, JavaScript (basic), C (introductory)  
+- **Tools:** VS Code, Git/GitHub, MS Word, Excel, PowerPoint  
+- **Other Tools:** Canva, Zoom, Google Docs, basic networking  
+- **Soft Skills:** Teamwork, Time Management, Communication, Adaptability  
+
+---
+
+## 🛠 Projects & Coursework
+- 📟 **Basic Calculator in JavaScript** – CLI-based calculator for simple arithmetic  
+- 📊 **Excel Data Visualization** – UG Colleges chart used in PowerPoint presentation  
+- 🌐 **Static Portfolio Website** – HTML/CSS site built in class  
+- 🔗 [Visit My Portfolio](Njor.html)
+
+---
+
+## 🌟 Achievements & Activities
+- 🏓 Active member, UG Table Tennis Club  
+- 🎥 Media personnel, Church Tech Team  
+- 💡 Passionate about problem-solving and building practical digital solutions  
+
+---
+
+## 📬 References  
+Available upon request.  
+📲 [Chat on WhatsApp](https://wa.me/233539032948)
+
+---
+
+> “Keep building, keep solving.” 🚀
