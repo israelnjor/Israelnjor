@@ -1,5 +1,6 @@
 <div align="center">
 
+
 # 👨🏾‍💻 Israel Njor
 
 ### Computer Science Student · Software Builder · Problem Solver · Tech Entrepreneur in Progress
