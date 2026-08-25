@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-I am a **BSc Computer Science student at the University of Ghana** with a strong interest in building practical software solutions for businesses, schools, and communities.
+I am a **BSc Mathematical Science (Combined Mathematics & Computer Science) student at the University of Ghana** with a strong interest in building practical software solutions for businesses, schools, and communities.
 
 I enjoy turning ideas into real systems — from academic projects to client-focused platforms. My interests include **full-stack development, school management systems, CRM platforms, automation, AI agents, cloud deployment, and scalable digital products**.
 
