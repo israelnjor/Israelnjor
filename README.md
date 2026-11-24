@@ -38,6 +38,18 @@ I am currently learning, building, experimenting, and growing into a better soft
 
 ---
 
+### 🔭 What I'm building
+
+**[Prime Word](https://github.com/israelnjor/prime-word-releases)**: an offline word processor for Windows that opens, edits and saves Word documents faithfully. Built on its own engines rather than a wrapper around someone else's editor.
+
+- **Document engine:** a document model, `.docx` reader/writer and layout engine of my own. Pages and line positions are measured against Microsoft Word itself.
+- **PDF → Word built in**, including scanned pages through the system's offline text recognition.
+- **Editor features:** tables, charts, ~100 shape types, equations (matrices, cases), footnotes, citations, tracked changes, document compare.
+- **Made for offices:** letterhead designer, signature clean-up, signature/address/stamp blocks.
+- **Shipping:** a ~7.5 MB installer, cryptographically signed auto-updates, crash recovery, and in-app feedback with an offline outbox.
+
+**Prime Platform**: the shared backend for Prime Productivity's apps. A Next.js API on Vercel with Supabase (Postgres, private storage, auth), and an installable console with Web Push notifications for every incoming report.
+
 ## 🛠️ Tech Stack
 
 <div align="center">
